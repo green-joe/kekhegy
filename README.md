@@ -1,7 +1,7 @@
 # WPF-MySQL feladat
 ## Kékhegy Szálló
 
-###Készíts adatbázist, illetve WPF alkalmazást, amelyben a következő feladataid vannak:
+### Készíts adatbázist, illetve WPF alkalmazást, amelyben a következő feladataid vannak:
 
 Hozz lére egy kekhegy nevű adatbázist a MySQL szerveren, amely UTF-8 kódolású magyar ékezetes karakterekkel!
 Az adatbazis.sql-ből importáld be a táblákat és az adatokat a kekhegy adatbázisba!
